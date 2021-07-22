@@ -8,7 +8,7 @@ B = [2, 5, 7]
 print(list_append(A, B))
 
 
-if 2 in a:
+if 2 in A:
 	print("True")
 else:
 	print("False")
